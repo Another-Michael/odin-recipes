@@ -1,1 +1,1 @@
-This web page is the first project in the odinn project. It is about recipes for my favorite meals# odin-recipes
+This web page is the first project of the odin project. It comprises of a homepage wherein my favourite recipes are listed. Clicking on the recipes will lead to another webpage with instructions on how to make that meal as well as the ingredients required.
